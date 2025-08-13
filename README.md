@@ -6,7 +6,7 @@ El **Planner-Universitario** integra funciones de gestión de actividades, visua
 
 Su objetivo principal es optimizar la organización, detectar de forma temprana problemas de desempeño y promover una comunicación efectiva en el entorno educativo.
 
----
+---.
 
 ## 🎯 Funcionalidades Principales
 - **Registro automático de actividades y entregas**  
